@@ -368,5 +368,5 @@ Thank you.
 
 # GPTs Prompts And Jailbreaks
 
-- BlackfridayGPT thub.com/friuns2/BlackFriday-GPTs-Prompts
+- BlackfridayGPT https://github.com/friuns2/BlackFriday-GPTs-Prompts
 - New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
